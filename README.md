@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 
-<h3 align="center">QA Engineer transitioning into a Data Analyst</h3>
+<h3 align="center">QA Engineer</h3>
 
 - 🔭 I’m currently pursuing the Google Data Analytics Professional Certificate program in order to get certified and gain even more hands-on experience in the Data Analytics world.
 
