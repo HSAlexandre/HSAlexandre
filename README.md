@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently deepening my knowledge in **test automation with Playwright**, test strategy, and **scalable QA practices** for modern platforms.
 
-- 💬 Ask me about **QA strategy**, **shift-left testing**, **manual & automated testing**,  
-  **Playwright, Cypress, Selenium**, **API testing**, **CI/CD quality gates**,  
-  **test planning, smoke vs regression**, and **people & project management**.
+- 💬 Ask me about **QA strategy**, **shift-left testing**, **manual & automated testing**, **Playwright, Cypress, Selenium**, **API testing**, **CI/CD quality gates**, **test planning, smoke vs regression**, and **people & project management**.
 
 - 📫 How to reach me: **sh.alexandre@hotmail.com**
 
 - 📄 Know about my experiences: https://www.linkedin.com/in/hsalexandre/
 
-- ⚡ Fun fact: **I have an MBA in Project Management and also a PSM I certification**
+- ⚡ Fun fact: **I have an MBA in Project Management and also a PSM I certification.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
